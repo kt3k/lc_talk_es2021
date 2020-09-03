@@ -1,7 +1,7 @@
 class: center, middle
 # JavaScript の新機能 - 2021
 
-日野澤 よしや
+日野澤
 
 twitter.com/kt3k
 
