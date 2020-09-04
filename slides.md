@@ -77,7 +77,7 @@ class: center, middle
 
 ---
 
-# String.protoype.replaceAll
+# [String.protoype.replaceAll](https://github.com/tc39/proposal-string-replaceall)
 
 文字列を全部置き換えられます。
 
@@ -92,7 +92,7 @@ class: center, middle
 
 ---
 
-# Logical Assignment
+# [Logical Assignment](https://github.com/tc39/proposal-logical-assignment)
 
 新しい代入文が増えます
 
@@ -110,7 +110,7 @@ a = a || b
 
 ---
 
-# Numeric Separator
+# [Numeric Separator](https://github.com/tc39/proposal-numeric-separator)
 
 ```
 const a = 1000000 // 100万
@@ -126,7 +126,7 @@ const a = 1_000_000
 
 ---
 
-# Promise.any
+# [Promise.any](https://github.com/tc39/proposal-promise-any)
 
 ```
 await Promise.any([a, b, c])
