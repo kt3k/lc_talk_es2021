@@ -48,6 +48,8 @@ class: center, middle
 
 ECMA International の中でも特に<br />
 
+<img src="assets/tc39.svg" width="100" />
+
 TC39 とよばれる会議体が年6回開催されて、<br />その中で次の JavaScript への仕様提案がされ、<br />入れる入れないのジャッジが行われています。<br />
 <br />
 
@@ -62,6 +64,9 @@ class: center, middle
 class: center, middle
 
 なので、今日は6月7月分の中からいくつかを紹介
+
+(これらの機能は ES2021 として仕様化されます)
+
 ---
 # 4機能
 
