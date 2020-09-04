@@ -142,7 +142,7 @@ class: center, middle
 
 今までも正規表現を使えば出来ました
 ```
-'aaa'.replaceAll(/a/g, 'b') // => 'bbb'
+'aaa'.replace(/a/g, 'b') // => 'bbb'
 ```
 
 ---
@@ -189,7 +189,7 @@ await Promise.any([a, b, c])
 
 ↑ 上の a, b, c の中でどれか1つが resolve したら Promise.any() 全体が resolve になり、すべてが reject された場合に reject になる。
 
-Promise.race はどれか1つが resolve or reject されたら全体が reject or reject になる、ので、微妙に違う
+Promise.race はどれか1つが resolve or reject されたら全体が resolve or reject になる、ので、微妙に違う
 
 ---
 
